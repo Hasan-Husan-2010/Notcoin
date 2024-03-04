@@ -105,6 +105,7 @@ span {
     width: var(--w);
     height: 50px;
     background: transparent;
+    transition: 0.1s all linear;
 }
 .div1 {
     width: 80%;
